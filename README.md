@@ -19,13 +19,14 @@ docker-compose up
 ## Running
 
 1 - 4. **Access the Application:** Once the containers are up and running, you can access the application in your web browser by navigating to `http://localhost`.
+
 2 - Now you can fill the text that you want, if none is subimited the code will give a message : Please fill the white space
 
 ## Project Structure
 
 The project repository is structured as follows:
 
-- `app/`: Contains the PHP source code for the text counting application.
+- `html/`: Contains the PHP source code for the text counting application.
 - `docker-compose.yml`: Defines the services and configurations for Docker Compose.
 - `README.md`: You're reading it right now! It provides information about the project.
 
